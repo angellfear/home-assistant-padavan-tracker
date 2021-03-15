@@ -1,0 +1,6 @@
+{
+  "name": "Padavan tracker",
+  "country": ["RU", "EN"],
+  "render_readme": true,
+  "homeassistant": "0.112.0"
+}
